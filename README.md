@@ -2,7 +2,7 @@ A simple Dart project containing console applications, tests and web pages.
 
 ### Console scripts
 - `dart bin\echo.dart` Echos content back to you
-- `dart bin\echo.dart` Prints the day of the week
+- `dart bin\print_day.dart` Prints the day of the week
 
 ### Tests
 - `dart test\all.dart` Some passing/failing sync/async tests
